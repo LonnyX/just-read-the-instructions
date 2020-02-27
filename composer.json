@@ -19,7 +19,7 @@
   ],
   "require": {
     "php": ">=7.1.0",
-    "unisharp/laravel-filemanager": "dev-lcm-fix,
+    "unisharp/laravel-filemanager": "dev-lcm-fix",
     "van-ons/laraberg": "~1.0.3"
   },
   "autoload": {
